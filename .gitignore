@@ -2,3 +2,6 @@
 /__pycache__
 /.git
 /.ropeproject
+token.lst
+database.db
+schedule.xml
